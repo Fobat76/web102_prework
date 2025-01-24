@@ -75,7 +75,6 @@ button {
 }
 .stats-container{
     display: flexbox;
-    align-items: center;
 }
 .stats-container:hover{
     cursor: pointer;
